@@ -1,5 +1,5 @@
 /*!
- * Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.1.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  * Copyright 2022 Fonticons, Inc.
  */
@@ -840,6 +840,12 @@
 .fa-neos:before {
   content: "\f612"; }
 
+.fa-nfc-directional:before {
+  content: "\e530"; }
+
+.fa-nfc-symbol:before {
+  content: "\e531"; }
+
 .fa-nimblr:before {
   content: "\f5a8"; }
 
@@ -1043,6 +1049,9 @@
 
 .fa-schlix:before {
   content: "\f3ea"; }
+
+.fa-screenpal:before {
+  content: "\e570"; }
 
 .fa-scribd:before {
   content: "\f28a"; }

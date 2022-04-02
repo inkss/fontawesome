@@ -82,7 +82,7 @@
 
 .fa-icon-duotone(@fa-var) {
   .fa-icon;
-  .fa-duotone;
+  &:extend(.fa-duotone all); // extends all pseudo-element selectors/rules inside of .fa-duotone
 
   &::before {
     content: @fa-var;
